@@ -1,5 +1,5 @@
 ##The following readme is from the [original repository](https://github.com/unexploredtest/neural-networks-and-deep-learning/tree/master)
-## This fork is made to work with the latest python versions (3.8.x to 3.10.x)
+# This fork is made to work with the latest python versions (3.8.x to 3.10.x)
 
 This is a fork of [Michael Nielsen](https://github.com/mnielsen/neural-networks-and-deep-learning) repository and is meant to be updated with the latest python and dependency versions. Most things have been updated and currently work. Any help is appreciated and if you spotted any problems, please open an issue and/or a PR.
 
@@ -46,4 +46,5 @@ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
 LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
 OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
 
